@@ -14,7 +14,7 @@
 - Packages: pandas, numpy, BeautifulSoup, sqlite3, folium, matplotlib, seaborn, plotly, dash, sklearn
 
 ## Presentation Slides
-[Click here to see the full slides](https://github.com/Doravado/space_y/blob/main/image/ds-capstone-chongxinzhao.pdf)
+[Click to see the full slides and more details](https://github.com/Doravado/space_y/blob/main/image/ds-capstone-chongxinzhao.pdf)
 
 Highlights
 ![alt text](https://github.com/Doravado/space_y/blob/main/image/data_collection.png)
