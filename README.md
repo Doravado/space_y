@@ -3,7 +3,7 @@
 ## Overview
 - Collected data from public SpaceX API and SpaceX Wikipedia page. Cleaned data and gathered relevant columns to be used as features to predict successful landings.
 
-- Explored data using SQL, visualization, folium maps, and dashboard(click to see). Explored and visualized the correlation between successful landings and other features.
+- Explored data using SQL, visualization, folium maps, and [dashboard](https://space-y-dashboard.onrender.com/)(click to see). Explored and visualized the correlation between successful landings and other features.
 
 - Four machine learning models were produced: Logistic Regression, Support Vector Machine, Decision Tree Classifier, and K Nearest Neighbors to predict successful landings.
 
